@@ -1,3 +1,9 @@
+# Development file
+/dev.js
+
+# Vim
+tags
+
 # Logs
 logs
 *.log
